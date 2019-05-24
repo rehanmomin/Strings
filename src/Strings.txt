@@ -1,0 +1,9 @@
+Strings can be defined in two way
+
+String literal i.e String a = "Rehan"
+String class i.e   String c = new String("Rehan");
+
+
+Literals are stored in Constant pool in heap memory.
+
+
